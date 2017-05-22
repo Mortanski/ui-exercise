@@ -1,0 +1,11 @@
+Notes for Valtech Test.
+
+1. Typically I work with responsive frameworks such as Bootstrap or Foundation and use sass processors for css. For this test I have kept css uncompressed for ease of reading and not used a template framework.
+
+2. I have used <header>, <main>, <footer> tags so have linked to a CDN for html5shiv.js.
+
+3. I have made the template files somewhat responsive, to give a flavour for how it could work across different devices.
+
+4. I have added a small logo file in the header which would link to the home page.
+
+5. Not being sure of which browser set was to be supported I've tried to use a clean, semantic approach without relying on the most modern layout css such as flexbox.
