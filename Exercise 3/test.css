@@ -85,6 +85,8 @@ header nav ul li a {
     background-color:#a6a6a6;
     text-decoration:none;
     font-size:1em;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
     transition: all 0.5s linear;
     text-transform:lowercase;
     font-weight:bold;
@@ -111,6 +113,8 @@ main {
     top:0;
     right:-100%;
     background:#bbea64;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
     transition: all 0.4s ease-out;
     border-left:solid 8px #272727;
     border-bottom:solid 8px #272727;;
